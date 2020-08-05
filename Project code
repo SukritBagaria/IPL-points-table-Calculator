@@ -1,3 +1,4 @@
+class details:
     def __init__(self, name):
         self.name = name
         self.wins = 0
